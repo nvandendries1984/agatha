@@ -1,0 +1,8 @@
+{
+    "name": "nielsvandendries/agatha-theme",
+    "type": "october-theme",
+    "description": "Portfolio bootstrap 5.3.0-alpha1 based",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
